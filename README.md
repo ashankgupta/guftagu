@@ -41,7 +41,7 @@ A real-time anonymous chat application where users can match and chat based on p
 
 1. Clone the repository:
    ```
-   git clone https://github.com/Ashank007/guftagu.git
+   git clone https://github.com/ashankgupta/guftagu.git
    cd guftagu
    ```
 
